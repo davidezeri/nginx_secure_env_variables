@@ -1,4 +1,4 @@
-FROM nginx:1.11.3-alpine
+FROM nginx:1.11.10
 
 MAINTAINER Davide Zeri <zeridavide@gmail.com>
 
